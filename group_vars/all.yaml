@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb-dev.indurthi.online
+CATALOGUE_HOST: catalogue-dev.indurthi.online
+REDIS_HOST: redis-dev.indurthi.online
+USER_HOST: user-dev.indurthi.online
+CART_HOST: cart-dev.indurthi.online
+MYSQL_HOST: mysql-dev.indurthi.online
+SHIPPING_HOST: shipping-dev.indurthi.online
+RABBITMQ_HOST: rabbitmq-dev.indurthi.online
+PAYMENT_HOST: payment-dev.indurthi.online
