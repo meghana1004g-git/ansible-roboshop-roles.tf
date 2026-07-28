@@ -9,3 +9,4 @@ MYSQL_HOST: mysql-"{{ env }}".indurthi.online
 SHIPPING_HOST: shipping-"{{ env }}".indurthi.online
 RABBITMQ_HOST: rabbitmq-"{{ env }}".indurthi.online
 PAYMENT_HOST: payment-"{{ env }}".indurthi.online
+app_version: v3
